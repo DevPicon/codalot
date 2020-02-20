@@ -1,1 +1,7 @@
-This is a hello world page
+---
+layout: post
+title: Hello Wolrd
+---
+
+This is it!
+My hello world page
