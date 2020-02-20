@@ -1,0 +1,10 @@
+# basic options
+title: Codalot Podcast
+author: devpicon
+email: codalot.dev@gmail.com
+description: Codalot Podcast website
+twitter_username: codalotdev
+
+# Build settings
+markdown: kramdown
+theme: minima
