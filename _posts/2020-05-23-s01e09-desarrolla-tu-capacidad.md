@@ -5,7 +5,7 @@ date:   2020-05-23 04:03:34 -0400
 published: true
 ---
 
-[<img src="/spotify-podcast-badge.png">]()
+[<img src="/spotify-podcast-badge.png">](https://open.spotify.com/episode/5GuDrCvMPkjqR6EpUw19VG)
 
 En este episodio tuvimos la oportunidad de compartir una amena plática junto a Anahi Salgado 🇲🇽 (@anncode) con quien conversamos sobre cómo adaptarse a estos tiempos y, además, nos brindó algunos consejos para mejorar nuestro proceso creativo al preparar una clase o una plática/charla/conferencia.
 
