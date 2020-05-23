@@ -7,4 +7,4 @@ published: true
 
 En este episodio conversamos con Christopher Ruz 🇨🇱 y Sebastian Mena 🇨🇱, desarrolladores y participantes de la comunidad Android de Chile, sobre las consideraciones antes, durante y después de la migración de un proyecto Java al lenguaje de programación Kotlin.
 
-[<img src="../spotify-podcast-badge.png">](https://open.spotify.com/show/1iyrRtXu0hrOQJyA7vdGiX)
+[<img src="../spotify-podcast-badge.png">](https://open.spotify.com/episode/6SaK6INYhSXEOzDIa2m9VQ)
