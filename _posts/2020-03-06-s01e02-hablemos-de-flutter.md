@@ -5,7 +5,7 @@ date:   2020-03-21 03:03:34 -0400
 published: true
 ---
 
-[<img src="../spotify-podcast-badge.png">](https://open.spotify.com/episode/54amYKKl0AKb0Mj2GU4v1p)
+[<img src="/spotify-podcast-badge.png">](https://open.spotify.com/episode/54amYKKl0AKb0Mj2GU4v1p)
 
 En este episodio conversamos con Diego Velásquez 🇵🇪, Google Developer Expert de Flutter; quien compartió con nosotros su experiencia con Flutter, cómo iniciar con este framework, qué consideraciones tener en cuenta y más.
 
